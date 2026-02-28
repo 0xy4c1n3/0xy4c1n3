@@ -25,6 +25,7 @@
     <img src="https://skillicons.dev/icons?i=github" width="64" height="64" />
   </a>
 </p>
+
 ---
 
 ## Skills
