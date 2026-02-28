@@ -29,7 +29,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,java,c,js,html,css,linux,bash,docker,kubernetes,nginx,redis,git,github,githubactions&perline=15&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,django,java,c,js,nodejs,linux,bash,docker,kubernetes,nginx,redis,git,github,githubactions&perline=15&theme=dark)](https://skillicons.dev)
 
 ---
 
