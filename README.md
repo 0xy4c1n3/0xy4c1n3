@@ -9,24 +9,24 @@
 ## Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ahmed-yacine-allag-a22a75297">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@0xy4c1n3">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://krypt00.tech/">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
-  </a>
-  <a href="mailto:ma_allag@esi.dz">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/0xy4c1n3">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://linkedin.com/in/ahmed-yacine-allag-a22a75297" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="64" height="64" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@0xy4c1n3" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium/12100E" width="64" height="64" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://krypt00.tech/" target="_blank">
+    <img src="https://cdn.simpleicons.org/hashnode/2962FF" width="64" height="64" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ma_allag@esi.dz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="64" height="64" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/0xy4c1n3" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="64" height="64" />
   </a>
 </p>
-
 ---
+
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,java,c,js,html,css,linux,bash,docker,kubernetes,nginx,redis,git,github,githubactions&perline=15&theme=dark)](https://skillicons.dev)
