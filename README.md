@@ -1,6 +1,6 @@
 # Ahmed Yacine Allag
 
-- **Software Engineering Student at [@ESI-Alger](https://esi.dz/)** <br clear="both" />
+- **Software Engineering Student [@ESI-Alger](https://esi.dz/)** <br clear="both" />
 - **Technical Department Manager [@Shellmates Club](https://www.linkedin.com/company/shellmates-club/posts/?feedView=all)** <br clear="both" />
 - **CTF Player [@TroJeun](https://www.linkedin.com/company/trojeun/posts/?feedView=all)** <br clear="both" />
 - **Interested in backend development, infrastructure, and security** <br clear="both" />
